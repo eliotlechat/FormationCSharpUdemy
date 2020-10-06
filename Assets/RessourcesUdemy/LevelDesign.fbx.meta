@@ -3,7 +3,132 @@ guid: d9a274b608db2b54fa1bdcd6cdf30341
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bambou
+    second: {fileID: 2100000, guid: 7f8d5672eafb7964a8e499b0f88e7fd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois
+    second: {fileID: 2100000, guid: 6d2ae031bedf1e84393bfdf520ecba77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Creme
+    second: {fileID: 2100000, guid: 393a483043f8ef64bbf7f6fcd831b38b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eau
+    second: {fileID: 2100000, guid: fa63e38c164e7fb4dab03fffb61c5154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris
+    second: {fileID: 2100000, guid: c801bfbb34786bf45899450ad5deb2e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaune
+    second: {fileID: 2100000, guid: 3077e8f5ad38bf74c8308c24b7a014f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaronFonce
+    second: {fileID: 2100000, guid: df52982696dc8a1419be3a35e2adeadf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: ce6fbbef7b44e78439c343b44e61bdda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c8dc51334d6c930448cd956f2e08a7a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: c7df0937af5055e428ab9a416863b568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 6a2a9361475690248863da25443dd4be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 598046d252866044c911220da00cd822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: f2b152f89690223498d29078ea681ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mauve
+    second: {fileID: 2100000, guid: 34fb64f20358fab4aba8d9480c286394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: cf4c45278e5c97a449a41a7fd02c98ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9cf86359f7c01104aa534a995485fc2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noir
+    second: {fileID: 2100000, guid: 3100aed1489198d429616af36c1f6db1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noir.001
+    second: {fileID: 2100000, guid: 5e79c49ddba773b4189adadda3c6a93f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: c5ee6c937ed8e3d4aa3dd8351bccfc9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: 888d503f587b6664d92b6c1523438cee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red.001
+    second: {fileID: 2100000, guid: 253aeefe3a3fa0742badd0b3b7a9895c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vert
+    second: {fileID: 2100000, guid: dabd384f610ac1645b39b7eea7560edd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vert2
+    second: {fileID: 2100000, guid: e4d8e533e25f88c48a53405a74336769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: dd9b62f10bf77c848b1e2c9af716cc36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: 1086f974bad66b647b34783266983378, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -31,7 +156,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -45,7 +170,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
