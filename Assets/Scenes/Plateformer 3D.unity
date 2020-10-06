@@ -974,12 +974,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 600310860}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1d2bdcb24015a8f43985b258cd537327, type: 3}
+  m_Script: {fileID: 11500000, guid: 59fb0bd60469c9a469f5de40d1305ff5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  jumpForce: 6
-  gravity: 8
 --- !u!143 &600310862
 CharacterController:
   m_ObjectHideFlags: 0
@@ -998,25 +995,6 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 2.1, z: 0}
---- !u!95 &600310864
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 600310860}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: bf61da5903a83c34585e8bc536de3eaa, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!64 &676939194
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3291,7 +3269,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1401715587098283846, guid: dcfc6b3ff541f054bae6567725810fe1, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dcfc6b3ff541f054bae6567725810fe1, type: 3}
 --- !u!33 &1415363999981267284
 MeshFilter:
@@ -7030,7 +7009,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5396740863534670386, guid: 00909163e303f9c4da4eb7b3368e6446, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 00909163e303f9c4da4eb7b3368e6446, type: 3}
 --- !u!4 &5811517546640557561
 Transform:

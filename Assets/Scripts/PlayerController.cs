@@ -2,8 +2,56 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
 public class PlayerController : MonoBehaviour
 {
+    private void Start()
+    {
+        
+
+    }
+
+    private void Update()
+    {
+        
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+/*
+     
     private CharacterController cc;
     // Variables pour le déplacement
     public float moveSpeed;
@@ -65,4 +113,7 @@ public class PlayerController : MonoBehaviour
         cc.Move(moveDir * Time.deltaTime);
 
     }
-}
+
+
+
+     */
